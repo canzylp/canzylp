@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @canzylp
-- 👀 I’m interested in software development and telemetry systems.
-- 🌱 I’m currently learning embedded systems.
-- 💞️ I’m looking to collaborate on silicon valley.
-- 📫 How to reach me m.ziyaalp3@gmail.com is my e-mail adress. You can send e-mails whenever you want.
+Hi, I am Can. I am studying mechatronics engineering, I know Python and C. I also study on electrical vehicles. If you wanna reach me, m.ziyaalp3@gmail.com is my e-mail adress.
 
 <!---
 canzylp/canzylp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
